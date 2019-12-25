@@ -1,0 +1,10 @@
+{
+    "name": "com.et.thirdparty",
+    "displayName": "ET ThirdParty",
+    "version": "5.0.0",
+    "unity": "2019.3",
+    "description": "这是ET框架的ThirdParty.",
+    "keywords": ["et", "game-engine", "unity3d-framework"],
+	"license":"MIT",
+    "dependencies": {}
+}
